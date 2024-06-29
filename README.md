@@ -22,7 +22,7 @@ Ich betreibe die Wetterstation [OeffWetter.de](http://OeffWetter.de), wo ich Wet
 
 - 🖥️ **Serverliebe**: Ich könnte den ganzen Tag damit verbringen, Server zu basteln und zu optimieren.
 - 📦 **Docker-Fan**: Containerisierung ist für mich wie LEGO für Erwachsene.
-- 🌤️ **Wetterfreak**: Mit meiner Wetterstation [OeffWetter.de](http://OeffWetter.de) halte ich immer ein Auge auf das Wettergeschehen. [WeeWx](https://github.com/weewx/weewx) + [Belchertown Skin](https://github.com/poblabs/weewx-belchertown) = ❤️
+- 🌤️ **Wetterfreak**: Mit meiner Wetterstation [OeffWetter.de](http://OeffWetter.de) halte ich immer ein Auge auf das Wettergeschehen.
 - 🚀 **Installationsskripte**: Skripte schreiben, um mir das Leben zu erleichtern. Wer hat schon Zeit für manuelle Installationen?
 - 🐧 **Linux-Liebhaber**: Seit 1997 begeisterter Linux-Nutzer und seit 2007 komplett Windows-frei.
 - 🎨 **CSS-Entdecker**: Momentan arbeite ich mich in CSS ein und lerne die Feinheiten der Gestaltung.
