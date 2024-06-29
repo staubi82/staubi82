@@ -6,6 +6,8 @@ Willkommen auf meiner GitHub-Profilseite! 🎉
 
 Ich heiße Thomas, aber alle nennen mich Staubi. Auf GitHub bin ich hauptsächlich als Nutzer unterwegs, aber ich erstelle auch gerne eigene Installationsskripte, weil ich einfach zu faul bin, Software manuell zu installieren. Wer kann's mir verübeln? 😉
 
+Seit 1997 beschäftige ich mich mit Linux und seit 2007 bin ich komplett von Windows weg. Aktuell arbeite ich mich in CSS ein und meine erste Android-App steht auch schon in den Startlöchern!
+
 ## Was mache ich hier?
 
 Ich liebe es, Server zu erstellen und zu konfigurieren. Docker ist mein bester Freund! 🐳
@@ -20,6 +22,9 @@ Aber meine wahre Leidenschaft liegt bei WeeWx und dem Belchertown Skin. Ich betr
 - 📦 **Docker-Fan**: Containerisierung ist für mich wie LEGO für Erwachsene.
 - 🌤️ **Wetterfreak**: Mit meiner Wetterstation halte ich immer ein Auge auf das Wettergeschehen. Weewx + Belchertown Skin = ❤️
 - 🚀 **Installationsskripte**: Skripte schreiben, um mir das Leben zu erleichtern. Wer hat schon Zeit für manuelle Installationen?
+- 🐧 **Linux-Liebhaber**: Seit 1997 begeisterter Linux-Nutzer und seit 2007 komplett Windows-frei.
+- 🎨 **CSS-Entdecker**: Momentan arbeite ich mich in CSS ein und lerne die Feinheiten der Gestaltung.
+- 📱 **Baldiger App-Entwickler**: Meine erste Android-App ist bald fertig und wird bald veröffentlicht!
 
 ## Was gibt's hier zu sehen?
 
