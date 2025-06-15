@@ -1,12 +1,12 @@
-# Hey! 👋 Ich bin Thomas - aber alle nennen mich Staubi
+# Hey! 👋 I bin Thomas - aber alle nenne mich Staubi
 
 Schön, dass du hier vorbeischaust! Willkommen in meiner kleinen digitalen Ecke. 
 
 ## Wer bin ich eigentlich?
 
-Ich bin Thomas, lebe in Fellbach und arbeite hauptberuflich nicht in der IT - trotzdem kann ich meine Finger nicht von Servern und Code lassen. 😄 Seit 1997 experimentiere ich mit Linux herum und seit 2007 ist mein Leben komplett Windows-frei. War die beste Entscheidung meines Lebens!
+I bin Thomas, leb in Fellbach und arbeit hauptberuflich net in der IT - trotzdem kann i meine Finger net von Servern und Code lassen. 😄 Seit 1997 experimentier i mit Linux rum und seit 2007 ist mein Leben komplett Windows-frei. War die beste Entscheidung meines Lebens!
 
-Aktuell vertiefe ich mich in CSS (wer hätte gedacht, dass Webdesign so süchtig machen kann?) und arbeite an meiner ersten Android-App. Bin gespannt, was daraus wird!
+Aktuell vertiefe ich mich in CSS (wer hätte gedacht, dass Webdesign so süchtig machen kann?). Meine erste Android-App ist übrigens schon fertig und läuft - wird aber auch meine letzte bleiben. App-Entwicklung ist halt einfach net so meins. 🤷‍♂️
 
 ## Meine digitalen Spielwiesen
 
@@ -28,7 +28,7 @@ Hier sind ein paar Projekte, mit denen ich meine Zeit verbringe:
 
 ## Was ich hier so treibe
 
-**Installationsskripte** - Ich bin einfach zu faul für manuelle Installationen. Warum 20 Befehle tippen, wenn ein Skript reicht? 
+**Installationsskripte** - I bin einfach zu faul für manuelle Installationen. Warum 20 Befehle tippen, wenn ein Skript reicht?
 
 **Docker-Spielereien** - Container sind wie Lego für Erwachsene. Einmal aufgebaut, läuft alles sauber und isoliert.
 
@@ -36,9 +36,9 @@ Hier sind ein paar Projekte, mit denen ich meine Zeit verbringe:
 
 ## Ehrlich gesagt...
 
-Ich mache das alles in meiner Freizeit und lerne dabei ständig dazu. Manchmal funktioniert was nicht auf Anhieb, manchmal ist mein Code nicht perfekt - aber das ist okay. Wir alle fangen mal klein an, und ich teile gerne, was ich lerne.
+I mach das alles in meiner Freizeit und lern dabei ständig dazu. Manchmal funktioniert was net auf Anhieb, manchmal ist mein Code net perfekt - aber des ist okay. Wir alle fangen mal klein an, und i teil gerne, was i lerne.
 
-Falls du Fragen hast, Verbesserungsvorschläge oder einfach nur schnacken willst - schreib mir gerne! Ich freu mich über jeden Austausch.
+Falls du Fragen hast, Verbesserungsvorschläge oder einfach nur schnacken willst - schreib mir gerne! I freu mich über jeden Austausch.
 
 ---
 
